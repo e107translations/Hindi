@@ -1,0 +1,71 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("COMLAN_0", "[व्यवस्थापक द्वारा अवरुद्ध]");
+define("COMLAN_1", "जल्दी से ले लेना");
+define("COMLAN_2", "ब्लॉक");
+define("COMLAN_4", "जानकारी");
+define("COMLAN_5", "टिप्पणियाँ...");
+define("COMLAN_6", "आप इस साइट पर टिप्पणी करना - कृपया लॉग इन करें, या यदि आप पंजीकृत नहीं हैं, तो क्लिक करें में लॉग इन होना चाहिए");
+define("COMLAN_7", "मुख्य साइट व्यवस्थापक");
+define("COMLAN_8", "टिप्पणी");
+define("COMLAN_9", "टिप्पणी सबमिट करें");
+define("COMLAN_10", "व्यवस्थापक");
+define("COMLAN_11", "डेटाबेस में अपनी टिप्पणी दर्ज करें - कृपया छोड़ने के बाहर किसी भी गैर-मानक वर्ण पुन: लिखें करने में असमर्थ था।");
+define("COMLAN_12", "उपयोगकर्ता");
+define("COMLAN_16", "उपयोगकर्ता नाम:");
+define("COMLAN_100", "समाचार");
+define("COMLAN_101", "जनमत सर्वेक्षण");
+define("COMLAN_102", "जवाब:");
+define("COMLAN_103", "आलेख");
+define("COMLAN_104", "समीक्षा");
+define("COMLAN_105", "सामग्री");
+define("COMLAN_106", "डाउनलोड");
+define("COMLAN_145", "पंजीकृत:");
+define("COMLAN_194", "अतिथि");
+define("COMLAN_195", "पंजीकृत सदस्य");
+define("COMLAN_310", "उस उपयोगकर्ता नाम पंजीकृत किया गया है के रूप में - अगर यह पोस्ट करने के लिए लॉगिन कृपया अपना उपयोगकर्ता नाम है पद को स्वीकार करने में असमर्थ।");
+define("COMLAN_312", "डुप्लिकेट पोस्ट - स्वीकार करने में असमर्थ।");
+define("COMLAN_313", "स्थान");
+define("COMLAN_314", "मॉडरेट टिप्पणियाँ");
+define("COMLAN_315", "Trackbacks");
+define("COMLAN_316", "इस newspost के लिए कोई trackbacks.");
+define("COMLAN_317", "उदारवादी trackbacks");
+define("COMLAN_318", "टिप्पणी संपादित करें");
+define("COMLAN_319", "संपादित");
+define("COMLAN_320", "अद्यतन टिप्पणी");
+define("COMLAN_321", "यहाँ");
+define("COMLAN_322", "पंजीकरण करने के लिए");
+define("COMLAN_323", "त्रुटि!");
+define("COMLAN_324", "विषय");
+define("COMLAN_325", "पुन::");
+define("COMLAN_326", "यह करने के लिए उत्तर दें");
+define("COMLAN_328", "टिप्पणियाँ बंद कर रहे हैं");
+define("COMLAN_329", "अनधिकृत");
+define("COMLAN_330", "आईपी:");
+define("COMLAN_331", "मंजूरी का इंतजार");
+define("COMLAN_332", "टिप्पणी हटा नहीं सका");
+define("COMLAN_333", "टिप्पणी को मंजूरी दी");
+define("COMLAN_334", "टिप्पणी अनुमोदन नहीं कर सका");
+define("COMLAN_335", "स्वीकृत किया गया है");
+define("COMLAN_336", "कृपया कुछ पहली बार लिखने के।");
+define("COMLAN_337", "सफलतापूर्वक अद्यतन किया गया।");
+define("COMLAN_400", "स्वीकृत किया गया है");
+define("COMLAN_401", "ब्लॉक किया गया");
+define("COMLAN_402", "लंबित");
+define("COMLAN_403", "एक संदेश छोड़ दो...");
+define("COMLAN_404", "अनुमोदन करें");
+define("COMLAN_TYPE_1", "समाचार");
+define("COMLAN_TYPE_2", "डाउनलोड");
+define("COMLAN_TYPE_3", "अक्सर पूछे जाने वाले प्रश्न");
+define("COMLAN_TYPE_4", "जनमत सर्वेक्षण");
+define("COMLAN_TYPE_5", "डॉक्स");
+define("COMLAN_TYPE_6", "bugtrack");
+define("COMLAN_TYPE_7", "विचारों");
+define("COMLAN_TYPE_8", "userprofile");
+define("COMLAN_TYPE_PAGE", "सामग्री");
+define("COMLAN_500", "कृपया [एक टिप्पणी छोड़ दो करने के लिए साइन इन करें]।");
+define("COMLAN_501", "आप अभी तक पंजीकृत नहीं हैं, तो आप कर सकते हैं [यहाँ क्लिक करें रजिस्टर करने के लिए]।");

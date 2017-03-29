@@ -1,0 +1,75 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("LAN_GALLERY_ADMIN_01", "[x] सक्रिय है। बस आयात और छवियाँ गैलरी श्रेणियों [y] का उपयोग करने के लिए असाइन करें");
+define("LAN_GALLERY_ADMIN_03", "स्लाइड शो मेनू");
+define("LAN_GALLERY_ADMIN_04", "अधिकतम छवि। चौड़ाई");
+define("LAN_GALLERY_ADMIN_05", "छवियाँ स्वत:-अधिक से अधिक यदि यहाँ दी गई चौड़ाई से आकृति परिवर्तन जाएगा जा");
+define("LAN_GALLERY_ADMIN_06", "अधिकतम छवि। ऊंचाई");
+define("LAN_GALLERY_ADMIN_07", "छवियाँ ऑटो-तो यहाँ दी गई ऊँचाई से अधिक से अधिक आकार बदला जाएगा जा");
+define("LAN_GALLERY_ADMIN_08", "\'Download\ दिखाएँ' लिंक");
+define("LAN_GALLERY_ADMIN_09", "एक डाउनलोड विकल्प पॉपअप शीर्षक के आगे दिखाया जाएगा");
+define("LAN_GALLERY_ADMIN_10", "स्लाइड शो श्रेणी");
+define("LAN_GALLERY_ADMIN_11", "इस श्रेणी से छवियाँ फिसलने मेनू में उपयोग किया जाएगा।");
+define("LAN_GALLERY_ADMIN_12", "स्लाइड अवधि");
+define("LAN_GALLERY_ADMIN_13", "एक पूर्ण कूद की अवधि (सेकंड में)।");
+define("LAN_GALLERY_ADMIN_14", "स्लाइड स्वत:-प्रारंभ करें");
+define("LAN_GALLERY_ADMIN_15", "जब सक्षम छवि घूर्णन स्वचालित रूप से जब पृष्ठ लोड है शुरू होता है।");
+define("LAN_GALLERY_ADMIN_16", "स्लाइड आवृत्ति");
+define("LAN_GALLERY_ADMIN_17", "जब स्वत:-प्रारंभ करें सक्षम किया गया है, यह तय कर कब तक एक स्लाइड रहता है अगले कूदने से पहले डाल दिया।");
+define("LAN_GALLERY_ADMIN_18", "स्लाइड प्रभाव");
+define("LAN_GALLERY_ADMIN_19", "प्रभाव का प्रकार।");
+define("LAN_GALLERY_ADMIN_20", "छवियाँ प्रति पृष्ठ");
+define("LAN_GALLERY_ADMIN_21", "प्रति पृष्ठ दिखाने के लिए छवियों की संख्या");
+define("LAN_GALLERY_ADMIN_22", "चित्रों द्वारा");
+define("LAN_GALLERY_ADMIN_23", "मीडिया ID ए एस सी");
+define("LAN_GALLERY_ADMIN_24", "मीडिया ID DESC");
+define("LAN_GALLERY_ADMIN_25", "मीडिया नाम ए एस सी");
+define("LAN_GALLERY_ADMIN_26", "मीडिया नाम DESC");
+define("LAN_GALLERY_ADMIN_27", "मीडिया शीर्षक ए एस सी");
+define("LAN_GALLERY_ADMIN_28", "मीडिया कैप्शन DESC");
+define("LAN_GALLERY_ADMIN_29", "बाईं ओर स्लाइड");
+define("LAN_GALLERY_ADMIN_30", "नीचे स्लाइड");
+define("LAN_GALLERY_ADMIN_31", "फीका");
+define("LAN_GALLERY_ADMIN_32", "prettyPhoto सेटिंग्स");
+define("LAN_GALLERY_ADMIN_33", "ऐनिमेशन गति");
+define("LAN_GALLERY_ADMIN_34", "स्लाइड शो: अंतराल समय");
+define("LAN_GALLERY_ADMIN_35", "स्लाइड शो: Autoplay");
+define("LAN_GALLERY_ADMIN_36", "अपारदर्शिता");
+define("LAN_GALLERY_ADMIN_37", "मान 0 और 1 के बीच।");
+define("LAN_GALLERY_ADMIN_38", "शीर्षक दिखाएँ");
+define("LAN_GALLERY_ADMIN_39", "आकार बदलने दें");
+define("LAN_GALLERY_ADMIN_40", "Viewport से बड़ा फोटो आकार।");
+define("LAN_GALLERY_ADMIN_41", "डिफ़ॉल्ट चौड़ाई");
+define("LAN_GALLERY_ADMIN_42", "डिफ़ॉल्ट ऊँचाई");
+define("LAN_GALLERY_ADMIN_43", "काउंटर विभाजक लेबल");
+define("LAN_GALLERY_ADMIN_44", "गैलरी के लिए विभाजक काउंटर 1 \'of\' 2");
+define("LAN_GALLERY_ADMIN_46", "क्षैतिज padding");
+define("LAN_GALLERY_ADMIN_47", "Padding चित्र के प्रत्येक पक्ष पर।");
+define("LAN_GALLERY_ADMIN_48", "फ्लैश छुपाएँ");
+define("LAN_GALLERY_ADMIN_49", "खाल prettyPhoto पर सभी फ़्लैश ऑब्जेक्ट सेट करने के लिए सत्य यदि फ्लैश, एक पृष्ठ पर प्रकट होता है।");
+define("LAN_GALLERY_ADMIN_50", "Wmode");
+define("LAN_GALLERY_ADMIN_51", "फ़्लैश wmode विशेषता सेट करें।");
+define("LAN_GALLERY_ADMIN_52", "ऑटोप्ले वीडियो");
+define("LAN_GALLERY_ADMIN_53", "मोडल बंद");
+define("LAN_GALLERY_ADMIN_54", "यदि सेट करने के लिए सच है, तो बंद करें बटन केवल विंडो बंद हो जाएगा।");
+define("LAN_GALLERY_ADMIN_55", "डीप-लिंकिंग");
+define("LAN_GALLERY_ADMIN_56", "PrettyPhoto डीप-लिंकिंग को सक्षम करने के लिए url अद्यतन करने के लिए अनुमति देते हैं।");
+define("LAN_GALLERY_ADMIN_57", "उपरिशायी गैलरी");
+define("LAN_GALLERY_ADMIN_58", "यदि सेट करने के लिए सच है, एक गैलरी पर माउस पर फुल स्क्रीन छवि ओवरले होगा।");
+define("LAN_GALLERY_ADMIN_59", "कुंजीपटल शॉर्टकट");
+define("LAN_GALLERY_ADMIN_60", "आप prettyPhoto के अंदर प्रपत्र खोलते हैं, तो false करने के लिए सेट करें।");
+define("LAN_GALLERY_ADMIN_61", "IE6 फॉलबैक");
+define("LAN_GALLERY_ADMIN_62", "तेजी से");
+define("LAN_GALLERY_ADMIN_63", "धीमी गति से");
+define("LAN_GALLERY_ADMIN_64", "सामान्य");
+define("LAN_GALLERY_ADMIN_65", "प्रकाश गोल");
+define("LAN_GALLERY_ADMIN_66", "अंधेरे गोल");
+define("LAN_GALLERY_ADMIN_67", "प्रकाश चौक");
+define("LAN_GALLERY_ADMIN_68", "काले वर्ग");
+define("LAN_GALLERY_ADMIN_69", "Facebook");
+define("LAN_GALLERY_ADMIN_70", "PrettyPhoto विश्व स्तर पर लोड");
+define("LAN_GALLERY_ADMIN_71", "prettyPhoto विशेषता (हुक)");
